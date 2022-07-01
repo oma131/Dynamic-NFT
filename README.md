@@ -13,3 +13,6 @@ You can get the video tutorial [**HERE**](https://youtu.be/8FJvY4zXvPE)
 - How to process and store on-chain SVG images and JSON objects
 - How to modify your metadata based on your interactions with the NFT
 - Structs and Mappings in solidity
+
+### Link To Blog
+[Struct, Mapping and Array in Solidity](https://ihuomablog.hashnode.dev/struct-mappings-and-array-in-solidity)
